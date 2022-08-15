@@ -7,6 +7,7 @@ public class MyClass
 {
     Calendar testcal = new Calendar();
     string test = "";
-    
+
+    string testMe = "TestMe";    
 
 }
