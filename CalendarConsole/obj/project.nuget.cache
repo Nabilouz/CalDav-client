@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9O9rsWq/GdySycJOA/lBxN7RyjE3smVoWEcMZ9YhWlCsbV0CCt7/dG6BRgcWuqJJqsiC441XeELFvsbMPT0vPw==",
+  "success": true,
+  "projectFilePath": "/home/nabz/Documents/Dev/CalendarClient/CalendarConsole/CalendarConsole.csproj",
+  "expectedPackageFiles": [
+    "/home/nabz/.nuget/packages/ical.net/4.2.0/ical.net.4.2.0.nupkg.sha512",
+    "/home/nabz/.nuget/packages/nodatime/3.0.0/nodatime.3.0.0.nupkg.sha512",
+    "/home/nabz/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.1/system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
